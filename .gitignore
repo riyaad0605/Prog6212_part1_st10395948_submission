@@ -1,0 +1,12 @@
+## Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+## OS
+.DS_Store
+Thumbs.db
