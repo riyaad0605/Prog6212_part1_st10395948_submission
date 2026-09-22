@@ -61,8 +61,3 @@ A GitHub Actions workflow (`.github/workflows/docs-check.yml`) validates that th
 
 ![CI Green Build](ci-screenshot.png)
 
-## Video Presentation
-
-**YouTube Link:** [Insert unlisted YouTube link here]
-
-The video walks through the ERD decisions, endpoint plan choices, and demonstrates the SQL script running live in SSMS.
